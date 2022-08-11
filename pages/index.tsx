@@ -120,6 +120,7 @@ const Home: NextPage = () => {
           {[0, 1, 2, 3].map((item) => {
             return (
               <div
+                key={item}
                 className="px-3 col-lg-3 col-sm-6 col-12 my-2"
                 id="newsButton"
                 role="button"

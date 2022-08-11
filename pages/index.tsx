@@ -238,6 +238,6 @@ const Home: NextPage = () => {
   );
 };
 
-Home.layout = MainLayout;
+// Home.layout = MainLayout;
 
 export default Home;

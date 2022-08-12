@@ -43,14 +43,12 @@ a {
   }
 }
 
-/* body::-webkit-scrollbar {
+body::-webkit-scrollbar {
   display: none;
-} */
-
-/* Hide scrollbar for IE, Edge add Firefox */
+}
 body {
-  /* -ms-overflow-style: none; */
-  /* scrollbar-width: none; Firefox */
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
 
 @media (max-width: 786px) {

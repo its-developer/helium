@@ -3,10 +3,10 @@ import Header from "../Components/Header";
 
 const MainLayout = ({ children }: any) => {
   return (
-    <div style={{ backgroundColor: "rgb(13, 13, 13)" }}>
+    <article className="jsx-4178290654">
       <Header />
       {children}
-    </div>
+    </article>
   );
 };
 

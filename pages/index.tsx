@@ -117,6 +117,7 @@ const home = () => {
               <div className="jsx-637639245 picker inverse">
                 <a className="jsx-1806352012 languagepicker">
                   <img
+                    key={3723076367}
                     src="/globe.svg"
                     className="jsx-637639245 globeimg"
                     style={{ color: "white" }}
@@ -148,6 +149,7 @@ const home = () => {
                   className="jsx-1806352012 languagepicker"
                 >
                   <img
+                    key={2342324234}
                     src="/globe.svg"
                     className="jsx-637639245 globeimg"
                     style={{ color: "white" }}
